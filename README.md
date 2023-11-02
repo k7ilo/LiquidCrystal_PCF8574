@@ -1,4 +1,4 @@
-# Arduino Library for LiquidCrystal displays with I2C PCF8574 adapter
+# Arduino Library for LiquidCrystal displays with I2C PCF8574 adapter.  Confirmed to work with the Rpi Pico
 
 [![Arduino Library Checks](https://github.com/mathertel/LiquidCrystal_PCF8574/actions/workflows/arduino-checks.yml/badge.svg)](https://github.com/mathertel/LiquidCrystal_PCF8574/actions/workflows/arduino-checks.yml)
 
